@@ -1,2 +1,2 @@
 # Using-GitHub
-Personal notes for using GitHub
+My personal notes for using GitHub
